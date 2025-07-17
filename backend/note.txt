@@ -1,7 +1,0 @@
-#{
-#  "model": "gemma3:1b",
-#  "prompt": "Tóm tắt văn bản sau: Dòng tiền của nhà đầu tư nước ngoài chảy mạnh vào thị trường chứng khoán giúp VN-Index tăng gần 15 điểm, lên 1.475 điểm sau nhịp điều chỉnh hôm qua. Sau phiên giảm hôm qua, một số nhóm phân tích cho rằng thị trường đang có nhịp \"nghỉ chân\" cần thiết để thiết lập mặt bằng giá mới. VN-Index được dự báo có thêm vài phiên điều chỉnh kỹ thuật, trở lại vùng giá 1.450 điểm trước khi bứt phá tiếp tục. Tuy nhiên, thực tế diễn ra trái ngược khi thị trường chỉ giảm nhẹ trong những phút đầu, sau đó đảo chiều và không ngừng nới rộng biên độ tăng. Chỉ số đại diện cho sàn TP HCM đóng cửa tại 1.475 điểm, tích lũy gần 15 điểm so với tham chiếu. Hàng loạt cổ phiếu vốn hóa lớn lấy lại trạng thái hưng phấn nên VN30 cũng tăng hơn 20 điểm, lên 1.614 điểm."
-#}
-
-# SELECT id, title, text, created_at FROM embeddings ORDER BY created_at DESC LIMIT 10;
-# docker exec -it nopaper-db-1 psql -U postgres -d nopaper

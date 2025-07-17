@@ -50,3 +50,4 @@ Icon?
 
 # Exclude large native binaries
 frontend/node_modules/@next/swc-darwin-arm64/
+secret/
