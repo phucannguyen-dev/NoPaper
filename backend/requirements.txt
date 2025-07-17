@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+Pillow
+sentence-transformers
+transformers
+asyncpg
+sqlalchemy
+watchdog
+httpx
+transformers
+torch
+accelerate
+safetensors
+Pillow
+torchvision
